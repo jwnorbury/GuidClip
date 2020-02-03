@@ -40,7 +40,7 @@ namespace GuidClip.Core
             if (numGuids <= 0)
             {
                 throw new ArgumentOutOfRangeException(
-                    "Number of GUIDs to generate must be greater that 0");
+                    "Number of GUIDs to generate must be greater that 0.");
             }
 
             if (numGuids == 1)
