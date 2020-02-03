@@ -1,4 +1,3 @@
-using System;
 using GuidClip.Core;
 
 namespace GuidClip.Mac

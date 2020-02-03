@@ -1,5 +1,4 @@
-﻿using System;
-using GuidClip.Core;
+﻿using GuidClip.Core;
 
 namespace GuidClip.Linux
 {
