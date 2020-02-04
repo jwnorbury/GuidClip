@@ -5,6 +5,7 @@
   </ItemGroup>
 
   <PropertyGroup>
+    <AssemblyName>guidclip</AssemblyName>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>

@@ -5,6 +5,7 @@
   </ItemGroup>
 
   <PropertyGroup>
+    <AssemblyName>guidclip</AssemblyName>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
